@@ -136,6 +136,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Welcome to Veluciant CWRP!",
 	"Thanks for joining us!",
+	"Feel free to join the Discord server while you wait, at discord.gg/5N5VVNP",
 	"Time to give it to those Separatist scum-dogs!",
 ];
 
