@@ -74,8 +74,8 @@ var l_bgImageMapBased = false;
 var l_bgImages = [
 	"load1.png",
 	"load2.png",
-	"load3.png"
-	"load4.png"
+	"load3.png",
+	"load4.png",
 ];
 
 // (Image-background only)
